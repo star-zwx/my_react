@@ -1,0 +1,88 @@
+.newdata{
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 2%;
+}
+/*.cou_name{*/
+/*    font-size: 20px;*/
+/*}*/
+.confirmed{
+    font-size: 19px;
+    font-weight: bold;
+}
+.deaths{
+    font-size: 19px;
+    font-weight: bold;
+}
+.recovered{
+    font-size: 19px;
+    font-weight: bold;
+}
+/*a{border: none}*/
+.tit{
+    color:white;
+    width:1419px;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.sele{
+    margin-top: -2%;
+    margin-right:4%;
+    text-align: center;
+}
+.chart{
+    margin-top:8%;
+    margin-left: 5%;
+    /*background-color: white;*/
+}
+.cont{
+    border-top: 3px #ffffff dashed;
+}
+.top{
+    margin-top:2%;
+    /*margin-left: 1%;*/
+    float: left;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.aaa{
+    font-size: 15px;
+}
+.ant-menu-light{
+    background-color: #dae1e7 !important;
+}
+.ant-menu-item-active{
+    color: white !important;
+}
+
+.linked-animate-demo-wrapper1 {
+    overflow: hidden;
+    height: 905px;
+    background: #019BF0;
+    position: relative;
+}
+
+.linked-animate-demo-box1 {
+    position: absolute;
+    width: 1500px;
+    height: 850px;
+    display: block;
+    left: -100%;
+    top: 0;
+    bottom: 0;
+    right: -100%;
+    margin: auto;
+}
+
+.linked-animate-demo-block {
+    position: absolute;
+    transition: transform .45s ease;
+}
+
+.linked-animate-demo-block-child {
+    border-radius: 100%;
+    width: 100%;
+    height: 100%;
+}
